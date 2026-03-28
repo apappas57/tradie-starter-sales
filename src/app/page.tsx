@@ -484,7 +484,7 @@ export default function HomePage() {
                 ))}
               </ul>
               <a
-                href="https://groundwork.lemonsqueezy.com/buy/tradie-starter"
+                href="https://groundworker7.gumroad.com/l/tradie-starter"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-outline text-center"
@@ -521,7 +521,7 @@ export default function HomePage() {
                 ))}
               </ul>
               <a
-                href="https://groundwork.lemonsqueezy.com/buy/tradie-starter-agency"
+                href="https://groundworker7.gumroad.com/l/tradie-starter"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-teal text-center"
